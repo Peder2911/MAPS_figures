@@ -1,0 +1,10 @@
+data/base_final.csv
+*.dta
+plots/*
+!plots/.gitkeep
+testing/*
+__pycache__/
+*.py[cod]
+*.swp
+data/intermediate/*
+!data/intermediate/.gitkeep
